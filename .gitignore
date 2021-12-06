@@ -102,6 +102,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+ApiKeyNasdaq.env
+
 .env
 .venv
 env/
